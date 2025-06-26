@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('images/DPPTtoolanvilscreenshot1.png');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('images/islammashaly_httpss.mj.runHv0y0lqEIUQ_The_sliders_moving_and__86049ee0-538b-4e07-8c40-658641d9939c_1.gif');
+  background-size: auto 150%, auto 80%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -30,7 +31,7 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    background-position: 50% 50%;
+    background-position: 50% 50%, 50% 50%;
   }
 
   .u-section-1 .u-sheet-1 {
@@ -60,6 +61,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-size: auto 150%, auto 60%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 860px;
   }
