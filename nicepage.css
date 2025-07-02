@@ -46089,7 +46089,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -32px 0 36px auto;
+  margin: -32px 1px 36px auto;
 }
 
 .u-header .u-nav-1 {
@@ -46109,7 +46109,7 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -32px;
-    margin-right: 0;
+    margin-right: 1px;
   }
 }
 
@@ -46130,7 +46130,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 219px;
+  min-height: 275px;
 }
 
 .u-footer .u-text-1 {
